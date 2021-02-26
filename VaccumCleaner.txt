@@ -9,4 +9,6 @@ Hardware Requirements:
 3. Small LCD display
 4. Camera
 5. Rotor with scrubber
+6. Dustbin
+7. Buttons
 

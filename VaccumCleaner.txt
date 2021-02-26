@@ -10,3 +10,9 @@ Hardware Requirements:
 4. Camera
 5. Rotor with scrubber
 
+
+
+Class Name
+1. VaccumCleaner
+2. Sensor
+3. CleaningMechanism

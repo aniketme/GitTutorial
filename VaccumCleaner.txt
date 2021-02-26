@@ -12,3 +12,9 @@ Hardware Requirements:
 6. Dustbin
 7. Buttons
 
+
+
+Class Name
+1. VaccumCleaner
+2. Sensor
+3. CleaningMechanism

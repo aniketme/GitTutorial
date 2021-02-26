@@ -6,4 +6,7 @@ Hardware Requirements:
 
 1. Vaccum Pump
 2. Wheel & Motor Drive
+3. Small LCD display
+4. Camera
+5. Rotor with scrubber
 

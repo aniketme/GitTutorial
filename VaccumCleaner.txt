@@ -1,0 +1,9 @@
+
+This file contains the information about vaccum cleaner.
+
+
+Hardware Requirements:
+
+1. Vaccum Pump
+2. Wheel & Motor Drive
+
